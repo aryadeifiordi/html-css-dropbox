@@ -44,5 +44,89 @@ header {
     font-size: 14px;
 }
 
+.header-top {
+    height: 10vh;
+    background-color: white;
+    padding: 5px; 
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+
+.fixed {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 3;
+}
+
+.container-head-1 {
+    width: 30%;
+    justify-content: space-between;
+
+}
+
+.container-head-2 {
+    width: 30%;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 120px;
+}
+
+.container-head-1 > a  {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+
+.container-head-2 > a  {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+
+.blue-button {
+    background-color: #0061ff;
+    color: white;
+    padding: 5px 12px;
+    border: none;
+} 
+
+/* header-bottom */
+
+.header-bottom {
+    margin: 60px 270px;
+    height: 85vh;
+    padding-top: 70px;
+}
+
+h1 {
+    font-size: 64px;
+    width: 960px;
+}
+
+p {
+    width: 250px;
+    margin-top: 30px;
+}
+
+.button-large {
+    width: 200px;
+    margin: 20px 0px;
+    
+}
+
+.text-head {
+    margin-top: 30px;
+    font-size: 14px;
+}
+
+.header-image {
+    width: 500px;
+}
 
 
