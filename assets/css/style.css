@@ -130,3 +130,11 @@ p {
 }
 
 
+/* main */
+
+/* section- */ 
+
+.container-section-1{
+    margin: 120px 320px;
+    justify-content: space-between;
+}
