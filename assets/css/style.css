@@ -140,4 +140,144 @@ p {
     justify-content: space-between;
 }
 
+h2 {
+    font-size: 33px;
+}
+
+.container-input{
+    width: 370px;
+    justify-content: space-between;
+    padding-top: 40px;
+
+}
+
+.container-box-1{
+    margin-top: 50px;
+    justify-content: space-between;
+
+
+}
+
+.head-box{
+    border-bottom: 0.5px solid black;
+    padding: 10px opx;
+}
+
+.box-1{
+    margin: 20px;
+
+}
+
+.top-price{
+    padding: 20px 0px;
+
+}
+
+.bottom-price{
+    margin-top: 10px;
+    font-size: 11px;
+    color: gray;
+
+}
+
+.box-icon{
+    padding: 15px 0px; 
+    font-size: 11px;
+    line-height: 30px;
+}
+
+.button-box{
+    padding-bottom: 30px;
+    font-size: 11px;
+    line-height: 40px;
+
+}
+
+.title-foot-box-1{
+    margin-top: 30px;
+
+}
+
+.box-1 > span{
+    font-size: 11px;
+    padding: 10px 0px;
+}
+
+.button-section-1 {
+    margin: 15px 0px;
+}
+
+.container-box-1 > div {
+    width: 250px;
+    height: 800px;
+    border: 0.5px solid black;
+
+}
+
+.box-4 {
+    margin-top: 50px;
+    height: 200px;
+    border: 0.5px solid black;
+}
+
+.title-box-4 {
+    border-bottom: 0.5px solid black;
+    padding: 10px 0px;
+}
+
+.box-4-head-content {
+    justify-content: space-between;
+}
+
+.office-sales {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.box-4-solution {
+    width: 475px;
+    font-size: 11px;
+    margin-top:30px;
+}
+
+.content-box-4 {
+    margin: 20px;
+}
+
+.blue-button:hover {
+    opacity: 0.7;
+} 
+
+.container-head-1 {
+    align-items: center;
+}
+
+.container-head-1 > a {
+    padding: 29px 0px;
+    
+}
+
+.box-1-line {
+    width: 50px;
+}
+
+.container-head-2 {
+    align-items: center;
+}
+
+.container-head-2 > a {
+    padding: 29px 0px;
+    
+}
+
+.container-head-1 > a:hover {
+    border-bottom: 1px solid black;
+    opacity: 0.7;
+}
+
+.container-head-2 > a:hover {
+    border-bottom: 1px solid black;
+    opacity: 0.7;
+}
+
 /* section  2 */
