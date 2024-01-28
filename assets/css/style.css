@@ -281,3 +281,61 @@ h2 {
 }
 
 /* section  2 */
+
+.box-section-2 {
+    padding: 30px;
+    width: 350px;
+}
+
+.button-section-2 {
+    margin-top: 40px;
+    width: 180px ;
+    background-color: white;
+    padding: 10px;
+    
+}
+
+.title-section-2 {
+    width: 260px;
+}
+
+.partner {
+    width: 500px;
+}
+
+.container-box-2 > p {
+    margin: 50px;
+}
+
+/* section-3 */
+
+.container-box-3 > h2 {
+    margin: 60px 0px;
+    
+}
+
+.container-section-3-top > div {
+    width: 250px; 
+}
+
+.container-section-3-bottom > div {
+    width: 250px; 
+}
+
+.container-section-3-top {
+    justify-content: space-between;
+}
+
+
+ .container-section-3-bottom {
+    justify-content: space-between;
+    margin: 60px 0px;
+}
+
+.no-border {
+    border: none ;
+}
+
+
+
+
