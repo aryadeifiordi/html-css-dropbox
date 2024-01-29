@@ -14,11 +14,6 @@ body {
 
 }
 
-.jumbo{
-    position: relative;
-    bottom: 250px;
-    left: 200px;
-}
 
 img {
     width: 100%;
@@ -141,6 +136,12 @@ p {
     width: 500px;
 }
 
+.jumbo{
+    position: relative;
+    bottom: 280px;
+    left: 200px;
+}
+
 /* main */
 
 /* section 1 */ 
@@ -255,7 +256,7 @@ h2 {
 }
 
 .blue-button:hover {
-    opacity: 0.7;
+    opacity: 1;
 } 
 
 .container-head-1 {
@@ -282,12 +283,12 @@ h2 {
 
 .container-head-1 > a:hover {
     border-bottom: 1px solid black;
-    opacity: 0.7;
+
 }
 
 .container-head-2 > a:hover {
     border-bottom: 1px solid black;
-    opacity: 0.7;
+  
 }
 
 /* section  2 */
@@ -409,7 +410,7 @@ h2 {
 .designit-back {
     background-color:#a2d39b;
     color:#cfebcc;
-    filter: drop-shadow(1);
+    
 
 }
 
