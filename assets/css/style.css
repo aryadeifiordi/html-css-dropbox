@@ -10,11 +10,19 @@
 body {
     font-family: 'Open Sans', sans-serif;
     padding-top: 105px;
+    min-width: 1440px;
 
+}
+
+.jumbo{
+    position: relative;
+    bottom: 250px;
+    left: 200px;
 }
 
 img {
     width: 100%;
+    
 }
 
 
@@ -585,9 +593,7 @@ h2 {
     padding-bottom: 30px;
 }
 
-.request {
-    transition: 5s;
-}
+
 
 .box-request:hover .request {
     display: none;
