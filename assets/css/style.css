@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 
-
+ 
 }
 
 
@@ -401,11 +401,14 @@ h2 {
 .designit-back {
     background-color:#a2d39b;
     color:#cfebcc;
+    filter: drop-shadow(1);
+
 }
 
 #designit {
     width: 100px;
-    filter: invert(1);
+   
+    
     
 }
 
@@ -430,7 +433,7 @@ h2 {
 
 #university {
     width: 100%;
-    
+   
     height: 70%;
 }
 
@@ -441,7 +444,7 @@ h2 {
 
 #topps {
     width: 100px;
-    filter: invert(1);
+    
 }
 
 .designit-logo {
@@ -471,7 +474,7 @@ h2 {
 
 #bicycle {
     width: 100px;
-    filter: invert(1);
+    
 }
 
 .hearst-back {
@@ -481,7 +484,7 @@ h2 {
 
 #hearst {
     width: 100px;
-    filter: invert(1);
+    
 }
 
 .lonely-back {
@@ -492,7 +495,6 @@ h2 {
 
 #lonely {
     width: 100px;
-    filter: invert(1);
 }
 
 .clear-back {
@@ -502,7 +504,7 @@ h2 {
 
 #clear {
     width: 100px;
-    filter: invert(1);
+    
 }
 
 .square-2-background {
@@ -513,9 +515,7 @@ h2 {
     height: 300px;
 }
 
-.square {
-    transition: border 1s;
-}
+
 
 .square:hover {
     border: 10px solid currentColor;
